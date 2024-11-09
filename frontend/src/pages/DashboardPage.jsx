@@ -12,7 +12,7 @@ const DashboardPage = () => {
     return (
         <div
             className="bg-cover bg-center bg-no-repeat h-screen justify-center"
-            style={{ backgroundImage: `url('../../assets/images/TrainImg.jpeg')` }}
+            style={{ backgroundImage: `url('../../assets/images/TrainImg.jpg')` }}
             
         >
             <Header />
